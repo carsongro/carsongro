@@ -1,4 +1,4 @@
-![iOS Apps](https://raw.githubusercontent.com/carsongro/carsongro/main/header.png)
+![iOS Apps](https://raw.githubusercontent.com/carsongro/carsongro/main/header.png?)
 
 ### Hi there 👋
 
