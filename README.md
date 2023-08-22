@@ -4,4 +4,4 @@
 
 Passionate iOS Software Engineer.
 
-- 🔭 Currently working anything Apple
+- 🔭 Currently working on anything Apple
