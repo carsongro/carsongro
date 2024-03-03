@@ -2,6 +2,4 @@
 
 ### Hi there 👋
 
-Passionate iOS Software Engineer.
-
-- 🔭 Currently working on anything Apple
+I love working on anything Apple!
