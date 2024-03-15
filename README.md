@@ -1,4 +1,4 @@
-<img width="1446" alt="header" src="https://github.com/carsongro/carsongro/assets/94569763/28e8d5dc-cf49-4c7a-95ee-25c40891992d">
+<img width="1431" alt="header" src="https://github.com/carsongro/carsongro/assets/94569763/fb41a709-abbf-4160-9d2c-05c567bdd574">
 
 ### Hi there 👋
 
