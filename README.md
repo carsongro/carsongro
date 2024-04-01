@@ -1,3 +1,3 @@
-<img width="1431" alt="header" src="https://github.com/carsongro/carsongro/assets/94569763/fb41a709-abbf-4160-9d2c-05c567bdd574">
+<img width="891" alt="header" src="https://github.com/carsongro/carsongro/assets/94569763/ca60d2a3-3525-4e56-b56f-d9ddf27d970c">
 
 I build things mostly with Swift!
